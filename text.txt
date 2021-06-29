@@ -1,0 +1,1 @@
+Hai!!! This is Php program #count the words eg:21
